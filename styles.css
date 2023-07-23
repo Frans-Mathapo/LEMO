@@ -1,3 +1,20 @@
-body{
-    color: red;
+.header{
+    height: 80vh;
+}
+
+.heading-text{
+    color: rgb(255, 255, 255);
+    padding-top: 10vh;
+}
+
+.hear-button{
+    margin-top: 20px;
+}
+
+.header-list{
+    margin: 25px;
+}
+
+.header-list,li{
+    padding-bottom: 15px;
 }
