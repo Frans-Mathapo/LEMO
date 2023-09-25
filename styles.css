@@ -38,3 +38,29 @@
     /* background-color: red; */
     
 }
+
+/* Section 2 tag */
+.section-{
+    width: 100%;
+}
+
+.subheading-2{
+    /* position: absolute; */
+    margin: 0 auto;
+    width: 80%;
+    /* border: 3px solid #73AD21; */
+    padding: 10px;
+}
+.subheading-2, h2{
+    padding: 4vh;
+}
+.custom-section {
+    margin: 0 auto;
+    width: 80%;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.footer_subsection{
+    padding-top: 5vh;
+}
